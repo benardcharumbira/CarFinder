@@ -1,10 +1,7 @@
 ﻿using CarFinder.Data;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace CarFinder
+namespace CarFinder.Model
 {
     public class PageResult
     {
