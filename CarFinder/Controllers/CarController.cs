@@ -17,7 +17,7 @@ namespace CarFinder.Controllers
         }
 
         /// <summary>
-        /// Retrieves a a paged result of cars
+        /// Retrieves a list of cars
         /// </summary>
         [HttpGet]
         public  PageResult GetCars(int? page, int pagesize = 10)
